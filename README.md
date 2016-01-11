@@ -12,7 +12,7 @@ The motivation for this was my desire to 'fiddle around' with a neural network. 
 * modification of the cost function for adv. opt. including degree and type of regularization 
 
 
-Now I do not consider Python ideal for neural networks, because it is often slow. However, Python is fun for fooling around. 
+Now I do not consider Python ideal for neural networks, because it is often slow. I don't even particularily care for coding complex matrix algebra with NumPy. However, Python is fun for fooling around. 
 
 I encountered two problems, however. Most of the simple python codes implementing backpropagation only contain 1 hidden layer. I wanted to experiment 
 with an arbitrary number of hidden layers, each of arbitrary size.
